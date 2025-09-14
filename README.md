@@ -148,8 +148,6 @@ Para build de produção:
 npm run build
 ```
 
-A plataforma recomendada é a Vercel, que oferece integração nativa e otimizada com o Next.js.
-
 
 ---
 
