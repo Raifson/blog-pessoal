@@ -148,14 +148,9 @@ Para build de produção:
 npm run build
 ```
 
-## 📝 Licença
+A plataforma recomendada é a Vercel, que oferece integração nativa e otimizada com o Next.js.
 
-Este projeto foi desenvolvido para fins educacionais e demonstração dos conceitos do Next.js 15.
-
-## 🤝 Contribuição
-
-Sinta-se à vontade para fazer fork do projeto e contribuir com melhorias!
 
 ---
 
-**Desenvolvido com ❤️ usando Next.js 15, TypeScript e Tailwind CSS**
+**Desenvolvido com ❤️ por Raifson Bacelar**
