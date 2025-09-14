@@ -1,4 +1,4 @@
-# Blog Pessoal - Next.js 15
+# Blog Pessoal - Programa Desenvolve - Grupo Boticário & Koru
 
 Um blog pessoal simples e moderno desenvolvido com Next.js 15, TypeScript e Tailwind CSS, demonstrando os conceitos fundamentais do App Router, Server Components e Client Components.
 
