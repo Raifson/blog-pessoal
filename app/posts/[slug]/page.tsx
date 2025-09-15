@@ -25,7 +25,7 @@ const posts = {
     `,
     date: "2025-09-14",
     author: "Raifson Bacelar",
-    likes: 12
+    likes: 231
   },
   "aprendendo-nextjs": {
     slug: "aprendendo-nextjs",
@@ -171,7 +171,7 @@ const posts = {
     `,
     date: "2025-09-14",
     author: "Raifson Bacelar",
-    likes: 33
+    likes: 200
   }
   }
 interface PageProps {
